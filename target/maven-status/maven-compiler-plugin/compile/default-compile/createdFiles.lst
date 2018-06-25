@@ -1,0 +1,5 @@
+com\controller\ContactListController.class
+com\application\Application.class
+com\service\ContactListService.class
+com\repository\IContactRepository.class
+com\model\UserEntity.class
